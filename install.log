@@ -1,0 +1,6 @@
+npm install gulp-sass --save-dev
+npm i gulp
+npm i gulp-sourcemaps
+npm i gulp-purifycss
+npm install --save-dev gulp-autoprefixer
+npm i browser-sync
